@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agvidas&count_private=true&include_all_commits=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agvidas&hide=html,css&count_private=true&include_all_commits=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agvidas&theme=default&count_private=true)](https://git.io/streak-stats)
 
